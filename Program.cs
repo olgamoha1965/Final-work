@@ -18,9 +18,9 @@ void ShowArray(string[] array)
     }
 }
 
-//string[] array1 = new string[4] {"Hello", "2", "world", ":-)"};
+string[] array1 = new string[4] {"Hello", "2", "world", ":-)"};
 //string[] array1 = new string[4] {"1234", "1567", "-2", "computer science"};
-string[] array1 = new string[3] {"Russia", "Denmark", "Kazan"};
+//string[] array1 = new string[3] {"Russia", "Denmark", "Kazan"};
 string[] array2 = new string[array1.Length];
 
 CurrentArray(array1, array2);

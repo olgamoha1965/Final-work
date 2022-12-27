@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pasho\\Desktop\\Тестировщик\\Geek Brains\\Практика\\Final work\\Final work.csproj": {}
+    "C:\\Users\\pasho\\Desktop\\Тестировщик\\Geek Brains\\Практика\\Final Work\\Final work.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pasho\\Desktop\\Тестировщик\\Geek Brains\\Практика\\Final work\\Final work.csproj": {
+    "C:\\Users\\pasho\\Desktop\\Тестировщик\\Geek Brains\\Практика\\Final Work\\Final work.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pasho\\Desktop\\Тестировщик\\Geek Brains\\Практика\\Final work\\Final work.csproj",
+        "projectUniqueName": "C:\\Users\\pasho\\Desktop\\Тестировщик\\Geek Brains\\Практика\\Final Work\\Final work.csproj",
         "projectName": "Final work",
-        "projectPath": "C:\\Users\\pasho\\Desktop\\Тестировщик\\Geek Brains\\Практика\\Final work\\Final work.csproj",
+        "projectPath": "C:\\Users\\pasho\\Desktop\\Тестировщик\\Geek Brains\\Практика\\Final Work\\Final work.csproj",
         "packagesPath": "C:\\Users\\pasho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pasho\\Desktop\\Тестировщик\\Geek Brains\\Практика\\Final work\\obj\\",
+        "outputPath": "C:\\Users\\pasho\\Desktop\\Тестировщик\\Geek Brains\\Практика\\Final Work\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pasho\\AppData\\Roaming\\NuGet\\NuGet.Config"
